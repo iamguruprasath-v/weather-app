@@ -1,4 +1,5 @@
-const APIKEY = "524cf4f313ec3ad1221f1f444f1fba75";
+//Create your own OpenWeatherMap API key at https://home.openweathermap.org/users/sign_up
+
 const BASE_URL = "https://api.openweathermap.org/data/2.5/forecast/";
 const WEATHER_OVERVIEW_BASE_URL = "https://api.openweathermap.org/data/3.0/onecall/overview";
 
